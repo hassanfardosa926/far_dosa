@@ -1,0 +1,42 @@
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.kiki{
+    display: flex;
+
+}
+
+body{
+    padding: 30px;
+    background-color: darkolivegreen;
+    border-radius: 50px;
+}
+.weza{
+    float: left;
+    padding: 50px;
+    background-color: darkslateblue;
+    margin: 40px;
+}
+.fafa{
+    padding: 10px;
+    display: inline;
+    
+}
+img{
+    width: 50%;
+    height: 500px;
+}
+.maso{
+    border: solid 3px;
+    width: 50%;
+    height: 500px;
+    margin-left: 50px;
+    padding-left: 25px;
+}
+li{
+    list-style: none;
+}
